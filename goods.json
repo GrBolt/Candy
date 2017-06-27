@@ -1,0 +1,38 @@
+{
+    "1":{
+        "name": "АВК Who said muuu?",
+        "cost": "168",
+        "description": "С молочным вкусом",
+        "image": "img/1.jpg"
+        },
+     "2":{
+        "name": "АВК Din Jon",
+        "cost": "126",
+        "description": "C ореховым вкусом",
+        "image": "img/2.jpg"
+        },
+    "3":{
+        "name": "ABK Baritone",
+        "cost": "130",
+        "description": "С ореховым вкусом",
+        "image": "img/3.jpg"
+        },
+     "4":{
+        "name": "ABK Domir",
+        "cost": "202",
+        "description": "Конфеты с ромом",
+        "image": "img/4.jpg"
+        },
+     "5":{
+        "name": "Roshen LolliPops",
+        "cost": "79",
+        "description": "Микс. Леденци",
+        "image": "img/5.jpg"
+        },
+     "6":{
+        "name": "Minky Binky",
+        "cost": "72",
+        "description": "Ирис",
+        "image": "img/6.jpg"
+        }
+}

@@ -1,0 +1,38 @@
+/*
+.item{
+
+    height: 245px;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 0px;
+    position: relative;
+}
+.item img{
+    margin: 5px;
+    padding: 1px;
+}
+*/
+.navbar-default{
+    background-color: #8bc34a;
+    border-color: #4caf50;
+}
+.active{
+    color: black;
+}
+.item{
+    height: 300px;
+    background: white;
+    border: 10px solid #f4f4f4;
+    margin: auto;
+    text-align: center;
+}
+.item button{
+    display: block;
+    margin: 0 auto;
+}
+.content{
+    background: #f4f4f4;
+}
+.toll-bar{
+border-right:  10px solid white;
+}
